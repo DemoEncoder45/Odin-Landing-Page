@@ -1,0 +1,27 @@
+
+
+.Header{
+
+    height: 50px;
+    width:  50px;
+    border: 1mm black;
+    background-color: darkcyan;
+    display: flex;
+
+}
+
+.BodyBox{
+
+    height: 50px;
+    width:  50px;
+    background-color: darkcyan;
+
+}
+
+.Footer{
+
+    height: 50px;
+    width:  50px;
+    background-color: darkcyan;
+
+}
